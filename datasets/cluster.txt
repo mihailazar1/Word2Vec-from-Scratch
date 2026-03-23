@@ -1,0 +1,3 @@
+cat dog lion tiger.
+car truck bus vehicle.
+apple banana orange fruit.
